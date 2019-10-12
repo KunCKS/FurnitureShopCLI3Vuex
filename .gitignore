@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-.gitignore
 # local env files
 .env.local
 .env.*.local
@@ -18,3 +17,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+vue.config.js
