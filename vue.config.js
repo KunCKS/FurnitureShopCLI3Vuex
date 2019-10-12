@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/FurnitureShopCLI3/'
+  publicPath: '/FurnitureShopCLI3Vuex/'
 }
