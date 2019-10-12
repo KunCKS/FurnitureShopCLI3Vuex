@@ -4,4 +4,4 @@
 
 ## Demo
 
-<https://kuncks.github.io/FurnitureShopCLI3/#/home>
+<https://kuncks.github.io/FurnitureShopCLI3Vuex/home>
