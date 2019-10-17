@@ -5,10 +5,15 @@
 ## Demo
 
 <https://kuncks.github.io/FurnitureShopCLI3Vuex/#/home>
+- 前台：
 
 ![FurnitureShop](https://i.imgur.com/lrg0Fd5.png)
-![FurnitureShop](https://i.imgur.com/hIQAZqm.png
-)
+![FurnitureShop](https://i.imgur.com/hIQAZqm.png)
+- 後台：
+
+![FurnitureShop](https://i.imgur.com/O7SXhF1.png)
+![FurnitureShop](https://i.imgur.com/jHZ7mkK.png)
+
 
 ## 簡介
 
