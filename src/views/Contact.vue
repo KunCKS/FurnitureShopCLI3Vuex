@@ -39,8 +39,9 @@ export default {
     return {
       productsHeaderData: {
         title: '門市位置',
-        imgUrl:
-          'https://images.unsplash.com/photo-1494203484021-3c454daf695d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
+        bgColor: '#fbfbfb'
+        // imgUrl:
+        //   'https://images.unsplash.com/photo-1494203484021-3c454daf695d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
       }
     }
   },

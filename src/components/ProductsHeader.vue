@@ -9,7 +9,7 @@
     'align-items-center':productsHeaderData.imgUrl,
     'text-white':productsHeaderData.imgUrl,
   }"
-    :style="`background-color: ${productsHeaderData.bgColor}`"
+    :style="`background-color: ${productsHeaderData.bgColor};background-image: url(${productsHeaderData.imgUrl})`"
   >
     <h1 class="h2" :class="{'mb-4':!productsHeaderData.imgUrl,}">{{productsHeaderData.title}}</h1>
     <p>{{productsHeaderData.content}}</p>
